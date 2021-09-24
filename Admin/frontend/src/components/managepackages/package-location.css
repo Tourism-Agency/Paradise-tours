@@ -1,0 +1,38 @@
+body{
+
+    background-color: #0099CC;
+}
+
+
+.Sigiriya{
+
+    width: 34cm;
+    height: 6.5cm;
+    
+    margin-left: 0.8cm;
+    display: flex;
+    flex-flow: row;
+}
+
+.Picture{
+
+    
+    margin-top: 0.2cm;
+    margin-left: 0.2cm;
+    border-radius: 10px;
+    
+    
+}
+
+.Sigiriya-des{
+
+    width: 27cm;
+    height: 4cm;
+    margin-left: 0.7cm;
+    margin-top: 0.2cm;
+    
+}
+
+.h6{
+    color: white;
+}
