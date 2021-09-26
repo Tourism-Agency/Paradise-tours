@@ -1,0 +1,55 @@
+body{
+
+    background-color: #0099CC;
+}
+
+.Count{
+
+    width: 15cm;
+    height: 13cm;
+    background-color: white ;
+    border-radius: 12px;
+    margin-left: 13cm;
+    margin-top: 2.5cm;
+    border: 3px solid black;
+
+}
+
+.First{
+
+    width: 13cm;
+    height: 9cm;
+    margin-left: 1cm;
+    margin-top: 1cm;
+}
+
+/*.btn-primary {
+    margin-left: 360px;
+}*/
+
+.First h5{
+
+    margin-top: 1.2cm;
+    margin-left: 0.1;
+}
+
+input[type=int] {
+    width: 90%;
+    padding: 12px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #66606069;
+    border-radius: 12px;
+    margin-left: 0.2cm;
+  }
+
+.Count_btn{
+
+    width: 3.2cm;
+    height: 1.1cm;
+    background-color: #0099CC;
+    margin-left: 9.2cm;
+    margin-top: 1.2cm;
+    border-radius: 12px;
+}

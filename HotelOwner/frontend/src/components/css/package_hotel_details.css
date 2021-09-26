@@ -1,0 +1,50 @@
+.Hotel{
+
+    width: 37cm;
+    height: 15cm;
+    
+    margin-left: 0.1cm;
+    display: flex;
+    flex-flow: row;
+    margin-left: 0.2cm;
+    margin-top: 0.3cm;
+}
+
+.Hotel_details{
+
+    width: 16.3cm;
+    height: 13.5cm;
+    background-color: white;
+    border-radius: 12px;
+    border:2px solid black;
+
+}
+
+.Hotel_images{
+
+    width: 22cm;
+    height: 14cm;
+    margin-left: 0.3cm;
+
+}
+
+.Day{
+
+    width: 16cm;
+    height: 10cm;
+  
+    margin-left: 0.3cm;
+    margin-top: 0.2cm;
+}
+
+.Day h5{
+
+    color:rgb(177, 64, 44);
+}
+
+.Hotel_size{
+
+    border-radius: 12px;
+    margin-left: 0.2cm;
+    margin-top: 0.2cm;
+}

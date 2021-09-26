@@ -1,0 +1,88 @@
+body{
+
+    background-color: #0099CC;
+    
+}
+
+.Hotel_room{
+
+    width: 39.5cm;
+    height: 23cm;
+    background-color:#0099CC;
+    display: flex;
+    flex-flow: row;
+
+}
+
+.Room_picture{
+
+    width: 23.5cm;
+    height: 20cm;
+    margin-left: 0.18cm;
+    margin-top: 0.7cm;
+
+}
+
+
+
+.Room_det{
+
+
+    width: 15cm;
+    height: 19cm;
+    background-color: white;
+    border-radius: 12px;
+    margin-left: 0.5cm;
+    margin-top: 1.2cm;
+   
+   
+}
+
+.Pic_size{
+
+    border-radius: 12px;
+    margin-left: 0.2cm;
+    margin-top: 0.2cm;
+}
+
+  
+  /* Full-width input fields */
+  input[type=date] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    border-radius: 12px;
+    margin-left: 0.2cm;
+  }
+  
+  input[type=date]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid black;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for the submit/register button */
+  .registerbtn2 {
+    background-color: #0099CC;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    opacity: 0.9;
+    margin-left: 1cm;
+    border-radius: 12px;
+  }
+  
+  .registerbtn2:hover {
+    opacity:1;
+  }
