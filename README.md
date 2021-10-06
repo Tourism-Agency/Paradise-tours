@@ -14,4 +14,4 @@
 
 05.V.Sureshkumar - 18020811 - 2018/IS/081
 
-**Guide,Hotel owner,Admin parts lost the contribution of main repository.Because created this repository to upload those files.**
+**Guide,Hotel owner(Some parts),Admin parts lost the contribution of main repository.Because created this repository to upload those files.**
